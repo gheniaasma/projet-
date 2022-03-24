@@ -1,0 +1,117 @@
+
+body {
+    background-color: rgb(224, 227, 238)
+  }
+  h1 {
+    color: rgb(80, 37, 129);
+    text-align: left
+  }
+  .recherche{
+      text-align: left;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+    text-align: left;
+  }
+
+.productCard {
+    width: 300px;
+    background-color: rgb(237, 205, 187)
+    
+}
+
+
+img{
+    display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+h2{
+text-align: left;
+
+}
+
+.productCard{
+    border: 1px solid red;
+    margin: 5px;
+    padding: 5px;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+ul{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    
+}
+ul li a{
+    text-decoration: none;
+    color: rgba(7, 3, 12, 0.904);
+    font-size: 25px;
+}
+.logo{
+
+    height: 50px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+input{
+    margin-right: 5px;
+border-radius: 30px;
+text-align: center;
+}
+form{
+    display: flex;
+    padding: 10px;
+    margin-left: 25%;
+
+}
+
+
+.lr{
+    display: flex;
+}
+    
+#bomme{
+    background-color: rgb(43, 189, 233);
+    text-align: center;
+
+}
+#creme{
+    background-color: rgb(43, 189, 233);
+    text-align: center;
+
+}
+#cremepied{
+    background-color: rgb(43, 189, 233);
+    text-align: center;
+
+}
+.bomme{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
+.cremeM{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
+.cremeP{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
+.identifiant{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 20px solid rgb(89, 0, 255) ;
+    color: rgb(89, 0, 255);
+    display: inline-block
+}
