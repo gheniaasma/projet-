@@ -111,7 +111,7 @@ form{
 }
 .identifiant{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    border: 20px solid rgb(89, 0, 255) ;
+    border: 5px solid rgb(89, 0, 255) ;
     color: rgb(89, 0, 255);
     display: inline-block
 }
